@@ -56,3 +56,28 @@ function agregarProducto() {
 
   console.log("Producto agregado:", nuevoProducto);
 }
+function sorpresa() {
+  // Creamos un producto nuevo
+  const nuevoProducto = {
+    id: Date.now(), // id único
+    nombre: "Nuevo Producto",
+    precio: (Math.random() * 100 + 10).toFixed(2),
+    imagen: "/imagenes/nadaXD.jpg" // imagen temporal
+  };
+
+  // Crear el elemento visual
+  const div = document.createElement("div");
+  div.classList.add("producto");
+  div.id = nuevoProducto.id;
+  div.innerHTML = `
+    <img src="${nuevoProducto.imagen}" alt="${nuevoProducto.nombre}">
+    <h3>${nuevoProducto.nombre}</h3>
+    <p>precio: $${nuevoProducto.precio}</p>
+    <button onclick="eliminar(${nuevoProducto.id})">Eliminar</button>
+  `;
+
+  // Agregar al contenedor
+  contenedor.appendChild(div);
+
+  console.log("Producto agregado:", nuevoProducto);
+}
