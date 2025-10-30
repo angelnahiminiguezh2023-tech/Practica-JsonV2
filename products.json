@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop HP Pavilion 15",
+    "precio": 15499,
+    "imagen": "/imagenes/hp pavilon.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone Samsung Galaxy S24",
+    "precio": 22999,
+    "imagen": "/imagenes/telefono.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Audífonos Inalámbricos Sony WH-1000XM5",
+    "precio": 7999,
+    "imagen": "/imagenes/audifonos.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Mouse Gamer Logitech G502 HERO",
+    "precio": 1299,
+    "imagen": "/imagenes/logitech.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Mecánico Redragon Kumara K552",
+    "precio": 899,
+    "imagen": "/imagenes/teclado mecanico.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Monitor LG Ultragear 24” 144Hz",
+    "precio": 3999,
+    "imagen": "/imagenes/monitor.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Smartwatch Xiaomi Redmi Watch 4",
+    "precio": 2399,
+    "imagen": "/imagenes/relog.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Televisor Samsung 55” QLED 4K",
+    "precio": 13999,
+    "imagen": "/imagenes/pantalla.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Consola PlayStation 5",
+    "precio": 14999,
+    "imagen": "/imagenes/play5.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Nintendo Switch OLED",
+    "precio": 8999,
+    "imagen": "/imagenes/nintendoswitch.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Cámara GoPro Hero 12 Black",
+    "precio": 10599,
+    "imagen": "/imagenes/gopro.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Bocina JBL Charge 5",
+    "precio": 3199,
+    "imagen": "/imagenes/bocina.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Tablet Apple iPad 10ª Gen (64GB)",
+    "precio": 9999,
+    "imagen": "/imagenes/ipad.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Router TP-Link Archer AX23 Wi-Fi 6",
+    "precio": 1899,
+    "imagen": "/imagenes/router.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Silla Gamer Cougar Armor One",
+    "precio": 4599,
+    "imagen": "/imagenes/silla.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "SSD Kingston NV2 1TB NVMe",
+    "precio": 1249,
+    "imagen": "/imagenes/ssd.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Disco Duro Externo Seagate 2TB",
+    "precio": 1699,
+    "imagen": "/imagenes/discoduro.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Impresora HP Smart Tank 720",
+    "precio": 4499,
+    "imagen": "/imagenes/impresora.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Parrilla Eléctrica Oster CKSTGR3007",
+    "precio": 1099,
+    "imagen": "/imagenes/parrilla.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Cafetera Nespresso Vertuo Next",
+    "precio": 3999,
+    "imagen": "/imagenes/cafetera.jpg"
+  }
+]

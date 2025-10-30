@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+    padding: 20px;
+
+}
+#contenedor-productos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.producto{
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0, 1);
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+
+    & img{
+        width: 90%;
+    }
+}
+
